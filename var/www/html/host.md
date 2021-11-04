@@ -1,5 +1,5 @@
-# Dashed Droplets
-Hello there. This site is hosted by Dashed Droplets (Generation 2) - By @Dasho.
+# Nardcart Droplets
+Hello there. This site is hosted by Dashed Droplets (Generation 2) - By @Nardcart.
 
 It is part of the Onionz Project.
 
